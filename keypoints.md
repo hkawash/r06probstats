@@ -65,13 +65,16 @@ $\rightarrow$ スライド（講義内容や宿題），レポート，各回の
   - [解答](exercise/exam1-2023_answer.pdf)
 
 
+### 後半
+
+- [第9,10回の練習問題](exercise/ex_lec9-10_2024.pdf)
+  - [解答](exercise/ex_lec9-10_2024_answer.pdf)
+
+
 <!-- - [今年の中間テスト](exercise/exam1-2023.pdf)
   - [解答](exercise/exam1-2023_answer.pdf)
 
 ### 後半
-
-- [第9,10回の練習問題](exercise/ex_lec9-10_2023.pdf)
-  - [解答](exercise/ex_lec9-10_2023_answer.pdf)
 
 - [第9～14回の練習問題（上の練習問題含む）](exercise/ex_lec9-14_2023.pdf)
   - [解答](exercise/ex_lec9-14_2023_answer.pdf)
