@@ -30,7 +30,7 @@
 |5 |2024/11/18 |[大数の法則と中心極限定理](slide/ProbStat2024_05.pdf)|
 |6 |2024/11/25 |[母平均のt検定](slide/ProbStat2024_06.pdf)|
 |7 |2024/12/02 |[分散分析](slide/ProbStat2024_07.pdf)|
-|8 |2024/12/09 |中間テスト & [分散分析の補足](slide/ProbStat2024_08.pdf)|
+|8 |2024/12/09 |[中間テスト（問題）](exercise/exam1-2024.pdf)[（解答）](exercise/exam1-2024_answer.pdf)<br />[分散分析の補足](slide/ProbStat2024_08.pdf)|
 |9 |2024/12/16 |[標本調査と実験計画](slide/ProbStat2024_09.pdf)|
 |10|2024/12/23 |[母比率の検定と推定](slide/ProbStat2024_10.pdf)|
 |11|2024/01/06 |[カイ二乗検定](slide/ProbStat2024_11.pdf)|
@@ -41,7 +41,6 @@
 |16|2025/02/?? |評価（到達度の確認）|
 
 <!--
-|8 |2024/12/09 |[中間テスト（問題）](exercise/exam1-2023.pdf)[（解答）](exercise/exam1-2024_answer.pdf)<br />[分散分析の補足](slide/ProbStat2024_08.pdf)|
 |12|2025/01/20 |[標本サイズと検定](slide/ProbStat2024_12.pdf)|
 |13|2025/01/27 |[相関と回帰](slide/ProbStat2024_13.pdf)|
 |14|2025/01/29 |[回帰分析](slide/ProbStat2024_14.pdf)|
